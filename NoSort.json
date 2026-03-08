@@ -1,0 +1,20 @@
+{
+  "id": "NoSort",
+  "name": "NoSort",
+  "display_name": "NoSort",
+  "author": [
+    "Virtualized"
+  ],
+  "description": "Stops your cards from sorting after playing a hand",
+  "prefix": "nosort",
+  "main_file": "core.lua",
+  "priority": 10000000,
+  "badge_colour": "000000",
+  "badge_text_colour": "FFFFFF",
+  "version": "1.0",
+  "dependencies": [
+    "Steamodded",
+    "Lovely (>=0.8)"
+  ],
+  "conflicts": []
+}
